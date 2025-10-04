@@ -1,0 +1,1 @@
+pip install solders solana requests aiohttp click pandas cryptography torch numpy scipy pyyaml base58 python-dotenv.
